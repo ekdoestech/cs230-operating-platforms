@@ -15,6 +15,14 @@ This repository contains my CS 230 portfolio artifact: a completed **software de
 
 The purpose of this artifact is to demonstrate my ability to analyze technical requirements, compare platform options, apply software design principles, and communicate recommendations clearly to both technical and non-technical audiences.
 
+## Project Artifacts
+
+- [View the Software Design Document](docs/The_Gaming_Room_Software_Design_Document.pdf)
+
+## UML Domain Model
+
+![The Gaming Room UML Domain Model](docs/uml-domain-model.png)
+
 ---
 
 ## About the Client
@@ -38,7 +46,8 @@ cs230-operating-platforms/
 ├── README.md
 ├── LICENSE
 └── docs/
-    └── The_Gaming_Room_Software_Design_Document.pdf
+    ├── The_Gaming_Room_Software_Design_Document.pdf
+    └── uml-domain-model.png
 ```
 
 ---
